@@ -6,8 +6,8 @@ community: false
 dune: false
 action: true
 
-synopsis: A set of tactics to deal with inequalities in Coq over N, Z and R
-
+synopsis: when a number n can be written as the sum of two square numbers
+ 
 description: |-
 
   This directory contains the proof that a number n can be written as the 
@@ -39,11 +39,11 @@ license:
   identifier: MIT
 
 supported_rocq_versions:
-  text: '9.0 or later'
-  opam: '{(>= "9.0")}'
+  text: '9.1 or later'
+  opam: '{(>= "9.1")}'
 
 tested_rocq_opam_versions:
-- version: '9.0'
+- version: '9.1'
 
 namespace: SumOfTwoSquare
 

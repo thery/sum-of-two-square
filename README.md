@@ -38,15 +38,7 @@ Laurent Thery thery@sophia.inria.fr
 
 ## Building and installation instructions
 
-The easiest way to install the latest released version of SumOfTwoSquare
-is via [OPAM](https://opam.ocaml.org/doc/Install.html):
-
-```shell
-opam repo add coq-released https://coq.inria.fr/opam/released
-opam install coq-SumOfTwoSquare
-```
-
-To instead build and install manually, do:
+To build and install manually, do:
 
 ``` shell
 git clone https://github.com/thery/SumOfTwoSquare.git

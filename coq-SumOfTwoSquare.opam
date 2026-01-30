@@ -10,7 +10,7 @@ dev-repo: "git+https://github.com/thery/SumOfTwoSquare.git"
 bug-reports: "https://github.com/thery/SumOfTwoSquare/issues"
 license: "MIT"
 
-synopsis: "A set of tactics to deal with inequalities in Coq over N, Z and R"
+synopsis: "when a number n can be written as the sum of two square numbers"
 description: """
 
 This directory contains the proof that a number n can be written as the 
